@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TRAV9-2 NA19240</title>
+</head>
+<body>
+<a href="https://noahclinethebiologist.github.io/home">TBAD home</a> 
+<a href="https://noahclinethebiologist.github.io/TRA">TRA segments</a> 
+<a href="https://noahclinethebiologist.github.io/TRAV">TRAV genes</a> 
+<a href="https://noahclinethebiologist.github.io/TRAV/TRAV9-2">TRAV9-2 alleles</a><br>
+<h1>TRAV9-2 NA19240</h1>
+<p>Accession number: TBAD0117<br>
+Species found in: Homo sapiens<br>
+Sequence derived from: NA19240_prelim_3.0 Assembly
+</p>
+<a href="https://noahclinethebiologist.github.io/TRAV/TRAV9-2_NA19240.fasta" download>Download fasta file</a>
+<p> Genomic sequence: </p>
+<p style="font-family:'Courier New'">
+&nbsp&nbsp&nbsp 1 ATGAACTATT CTCCAGGCTT AGTATCTCTG ATACTCTTAC TGCTTGGTTA <br>
+&nbsp&nbsp 51 GTGAGATGCC TTTTAAAATT TGGTCTCTGT CTTCTATCAA GCCAAAAAAA <br>
+&nbsp 101 TCTTTAACCA TAATTTGACC TAAGAGCATT ATGCTCAAGG CTAAACAGAT <br>
+&nbsp 151 CTCTCTCTCT CTCTCTCTCT TTTTTTTTTT CCCTAGGAAG AACCCGTGGA <br>
+&nbsp 201 GATTCAGTGA CCCAGATGGA AGGGCCAGTG ACTCTCTCAG AAGAGGCCTT <br>
+&nbsp 251 CCTGACTATA AACTGCACGT ACACAGCCAC AGGATACCCT TCCCTTTTCT<br>
+&nbsp 301 GGTATGTCCA ATATCCTGGA GAAGGTCTAC AGCTCCTCCT GAAAGCCACG <br>
+&nbsp 351 AAGGCTGATG ACAAGGGAAG CAACAAAGGT TTTGAAGCCA CATACCGTAA <br>
+&nbsp 401 AGAAACCACT TCTTTCCACT TGGAGAAAGG CTCAGTTCAA GTGTCAGACT <br>
+&nbsp 451 CAGCGGTGTA CTTCTGTGCT CTGAGTGA<br>
+
+
+</p>
+
+</body>
+</html>
